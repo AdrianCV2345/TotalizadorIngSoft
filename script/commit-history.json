@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Adrian Claros",
+    "commit": {
+      "date": "2025-09-04T13:28:52.000Z",
+      "message": "feat: Cantidad y precio por item",
+      "url": "https://github.com/AdrianCV2345/TotalizadorIngSoft/commit/HEAD"
+    },
+    "stats": {
+      "total": 13,
+      "additions": 7,
+      "deletions": 6,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
