@@ -13,5 +13,11 @@ form.addEventListener("submit", (event) => {
 
   const precioNeto = Totalizador.calcularPrecioNeto(cantidad, precioPorItem);
 
-  resultadoDiv.innerHTML = `<div><strong>Precio Neto:</strong> ${precioNeto}</div>`;
+  resultadoDiv.innerHTML = `
+    <div>
+      <strong>Cantidad de items:</strong> ${cantidad}<br>
+      <strong>Precio por item:</strong> ${precioPorItem}<br>
+      <strong>Precio Neto:</strong> ${precioNeto}
+    </div>
+  `;
 });

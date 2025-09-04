@@ -19,17 +19,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "26531f034f3e87e6ab1b6f6b9739205eff7e9820",
     "author": "Adrian Claros",
     "commit": {
       "date": "2025-09-04T13:41:19.000Z",
       "message": "Feat: Integracion Mostrar precio neto , en Html y presenter",
-      "url": "https://github.com/AdrianCV2345/TotalizadorIngSoft/commit/HEAD"
+      "url": "https://github.com/AdrianCV2345/TotalizadorIngSoft/commit/26531f034f3e87e6ab1b6f6b9739205eff7e9820"
     },
     "stats": {
       "total": 62,
       "additions": 43,
       "deletions": 19,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Adrian Claros",
+    "commit": {
+      "date": "2025-09-04T13:44:16.000Z",
+      "message": "Feat: Refact y Arreglo Mostrar precio por Item y Cantidad",
+      "url": "https://github.com/AdrianCV2345/TotalizadorIngSoft/commit/HEAD"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 7,
+      "deletions": 1,
       "date": "2025-09-04"
     },
     "coverage": 100,
