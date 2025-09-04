@@ -57,12 +57,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "0fc286a1e4ddd19aab76e3e814253fa9f5ae208c",
     "author": "Adrian Claros",
     "commit": {
       "date": "2025-09-04T13:51:22.000Z",
       "message": "feat: Mostrar e ingresar el estado",
-      "url": "https://github.com/AdrianCV2345/TotalizadorIngSoft/commit/HEAD"
+      "url": "https://github.com/AdrianCV2345/TotalizadorIngSoft/commit/0fc286a1e4ddd19aab76e3e814253fa9f5ae208c"
     },
     "stats": {
       "total": 9,
@@ -72,6 +72,25 @@
     },
     "coverage": 100,
     "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Adrian Claros",
+    "commit": {
+      "date": "2025-09-04T14:01:41.000Z",
+      "message": "feat: Seleccionar el estado y mostrar el calculo con el impuesto del estado",
+      "url": "https://github.com/AdrianCV2345/TotalizadorIngSoft/commit/HEAD"
+    },
+    "stats": {
+      "total": 30,
+      "additions": 22,
+      "deletions": 8,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 3,
     "failed_tests": 0,
     "conclusion": "success"
   }
